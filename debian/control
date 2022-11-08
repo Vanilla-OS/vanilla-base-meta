@@ -1,6 +1,6 @@
 Source: vanilla-base-meta
-Section: utils
-Priority: optional
+Section: admin
+Priority: required
 Maintainer: Mirko Brombin <send@mirko.pm>
 Build-Depends: debhelper (>= 11),
 Homepage: https://github.com/vanilla-os/vanilla-base-meta/
