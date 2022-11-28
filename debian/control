@@ -170,9 +170,10 @@ Depends: gpg,
          vanilla-first-setup,
          vanilla-beta-notice,
          vanilla-control-center,
+         vanilla-system-operator,
          vanilla-backgrounds,
          base-files,
          micro-distrobox,
          apx,
-         almost
+         abroot
 Description: This meta package contains all the packages needed to have a working Vanilla OS system.
