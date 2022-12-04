@@ -1,5 +1,5 @@
-vanilla-base-meta (0.0.4-vanilla1) kinetic; urgency=low
+vanilla-base-meta (0.0.5-vanilla1) kinetic; urgency=medium
 
-  * First release
+  * Update dependencies
 
  -- Mirko Brombin <send@mirko.pm>  Mon, 06 Sep 2022 21:22:00 +0100
