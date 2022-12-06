@@ -29,6 +29,7 @@ Depends: gpg,
          fonts-freefont-ttf,
          fonts-noto-color-emoji,
          foomatic-db-compressed-ppds,
+         power-profiles-daemon
          gdm3,
          genisoimage,
          ghostscript-x,
