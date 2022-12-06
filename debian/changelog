@@ -1,5 +1,5 @@
-vanilla-base-meta (0.0.5-vanilla1) kinetic; urgency=medium
+vanilla-base-meta (0.0.7-vanilla1) kinetic; urgency=medium
 
-  * Update dependencies
+  * Add power-profiles-daemon
 
- -- Mirko Brombin <send@mirko.pm>  Mon, 06 Sep 2022 21:22:00 +0100
+ -- Mirko Brombin <send@mirko.pm>  Thu, 06 Dec 2022 12:09:00 +0100
