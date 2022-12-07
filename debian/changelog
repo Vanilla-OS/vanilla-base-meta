@@ -1,5 +1,5 @@
-vanilla-base-meta (0.0.7-vanilla1) kinetic; urgency=medium
+vanilla-base-meta (0.0.8-vanilla1) kinetic; urgency=critical
 
-  * Add power-profiles-daemon
+  * Fix GNOME Extensions support
 
  -- Mirko Brombin <send@mirko.pm>  Thu, 06 Dec 2022 12:09:00 +0100
