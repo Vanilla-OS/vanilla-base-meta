@@ -1,3 +1,10 @@
+vanilla-base-meta (0.0.9-vanilla1) kinetic; urgency=critical
+
+  * Add libcanberra-pulse
+
+ -- Mirko Brombin <send@mirko.pm>  Fri, 09 Dec 2022 07:09:00 +0100
+
+
 vanilla-base-meta (0.0.8-vanilla1) kinetic; urgency=critical
 
   * Fix GNOME Extensions support
