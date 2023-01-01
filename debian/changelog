@@ -1,4 +1,4 @@
-vanilla-base-meta (1.0.4-vanilla1) kinetic; urgency=critical
+vanilla-base-meta (1.0.5-vanilla1) kinetic; urgency=critical
 
   * Add openssh-server
   * Add evolution-data-server
