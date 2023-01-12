@@ -1,6 +1,7 @@
-vanilla-base-meta (1.2.0-vanilla1) kinetic; urgency=critical
+vanilla-base-meta (1.2.1-vanilla1) kinetic; urgency=critical
 
   * Remove desktop related packages
+  * Add Fingerprint reader support
 
  -- Mirko Brombin <send@mirko.pm>  Fri, 06 Jan 2023 08:22:00 +0100
  
