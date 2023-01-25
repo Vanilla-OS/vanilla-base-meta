@@ -139,6 +139,8 @@ Depends: gpg,
          apx,
          abroot
 Recommends: brltty,
+            speech-dispatcher,
+            speech-dispatcher-espeak-ng,
             espeak-ng,
             network-manager-config-connectivity-ubuntu,
             network-manager-openvpn,
