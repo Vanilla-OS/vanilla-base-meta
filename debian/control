@@ -138,7 +138,7 @@ Depends: gpg,
          vanilla-systemd-units,
          base-files,
          apx,
-         abroot
+         abroot,
          brltty,
          speech-dispatcher,
          speech-dispatcher-espeak-ng,
